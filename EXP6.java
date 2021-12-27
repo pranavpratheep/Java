@@ -1,3 +1,6 @@
+
+/* AUTHOR : Pranav P                                                                                                                                                  
+/* DATE   : 20-11-2021 */   
 import java.util.*;
 public class EXP6
 {
